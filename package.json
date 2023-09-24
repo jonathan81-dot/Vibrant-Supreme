@@ -1,11 +1,12 @@
 {
   "name": "vibrant-supreme",
   "displayName": "Vibrant Supreme",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A vibrant theme to keep your motivation up while coding!",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.82.0"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
